@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
     int N = 0;
     int a = 0;
@@ -28,4 +28,5 @@ void main()
         }
         printf("\n");
     }
+    return 0;
 }
